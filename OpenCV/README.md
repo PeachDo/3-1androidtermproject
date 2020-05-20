@@ -1,7 +1,7 @@
 
 ## Image preprocessing using OpenCV
 
-#### trainig  
+#### training  
 - training dataset
 
 #### validation
