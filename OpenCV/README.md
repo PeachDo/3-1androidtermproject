@@ -4,12 +4,6 @@
 #### training  
 - training dataset
 
-#### validation
-- validation dataset
-
-#### test
-- test data
-
 #### image_crop
 - Face recognition and cropping  
 - Photo conversion to black and white
