@@ -13,3 +13,5 @@
 서버 구축 : 이도연, 이소연  
 이미지 인식 및 분류 기능 개발 : 이도연, 김지원    
 ```
+## 시연 화면  
+<img width="366" alt="스크린샷 2020-07-23 오전 9 06 43" src="https://user-images.githubusercontent.com/42952244/88241068-ffc4d480-ccc3-11ea-84a4-19e55bbb9cf6.png">
